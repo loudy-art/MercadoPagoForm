@@ -12,8 +12,8 @@ Ojalá les sirva de algo!
 
 ------------------------------------------------------------------------------------------------------
 
-Hi there! This is a super basic form in PHP which integrates MercadoPago's Checkout Pro. In my initial project, I had trouble submitting information
-by e-mail to my client after the payment was made, so I was able to solve it with this piece of code and wanted to share it.
+Hi there! This is a super basic form in PHP which integrates MercadoPago's Checkout Pro. On my initial project, I had trouble submitting information
+vía e-mail to my client after the payment was made, so I was able to solve it with this piece of code and wanted to share it.
 
 It is important that you install both the MercadoPago SDK and PHPMailer for it to work, you can use the code provided as a reference.
 
